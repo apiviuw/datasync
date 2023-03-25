@@ -60,3 +60,4 @@ java -jar DataSync-1.8.2-jar-with-dependencies.jar
 DataSync can be used as a Java SDK, for detailed documentation refer
 to:
 [http://socrata.github.io/datasync/guides/datasync-library-sdk.html](http://socrata.github.io/datasync/guides/datasync-library-sdk.html)
+Connect
